@@ -65,7 +65,7 @@
 > 遊戲開啟測試
 ### 1.2
 > 測試建制版本 重新建置 Test Building Version, rebuild...
-> 發布
+> 發布 Release
 
 
 ## 版權聲明
