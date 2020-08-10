@@ -1,4 +1,9 @@
 # Mantrix工具 Mantrix-Tools
+
+## 版權聲明
+**根據Github，原生版權，原作者保留一切著作權之權利**
+**此專案為開源，禁止販賣，可修改原始碼。**
+
 ## 介紹 Intro
 這是一個工程使用的工具APP This is for engineering Toos App 
 ## 安裝說明&使用說明 Installation &Instructions& for using
@@ -67,7 +72,3 @@
 > 測試建制版本 重新建置 Test Building Version, rebuild...
 > 發布 Release
 
-
-## 版權聲明
-**根據Github，原生版權，原作者保留一切著作權之權利**
-**此專案為開源，禁止販賣，可修改原始碼。**
